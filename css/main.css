@@ -1,0 +1,65 @@
+body{
+	font-family: 'Lato', sans-serif;
+	color: #2d3c49;
+	font-weight: 300;
+	padding-bottom: 70px;
+}
+
+.text-muted {
+	color: #bcbbbb;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+.title-super {
+	font-size: 60px;
+}
+
+.title-logo {
+	padding-top: 20px;
+	max-height: 125px;
+
+
+}
+
+.main-image {
+	width: 100%;
+	max-height: 550px;
+	overflow: hidden;
+	
+}
+
+hr {
+	border: none;
+	height: 1px;
+	color: #bcbbbb;
+	background-color: #bcbbbb;
+}
+
+.fa {
+	color: #bcbbbb;
+	max-height: 30px;
+}
+
+@media screen and (max-width: 770px) {}
+	.nav-justified {
+		white-space: normal;
+		font-size: 0.7em;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
